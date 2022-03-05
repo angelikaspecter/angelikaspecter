@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Angelika
-- 👀 I’m interested in full-time, part-time collaborate
+- 💼 Working Frontend-Web-Integrator in full time
+- 👀 and interested in part-time collaborate
 - 🌱 I’m currently learning Front-end Developing
 - 💞️ I’m looking to collaborate on HTML/CSS/JS/BS coding
 - 📫 You can write me on telegram - @iSpectra or to e-mail - angelikaspecter@gmail.com
